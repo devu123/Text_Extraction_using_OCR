@@ -1,0 +1,6 @@
+Model number dedcoded for
+Samsung Dishwasher      DW                      https://en.tab-tv.com/?p=24262
+Samsung Refrigerator    R|(F, T, H, S, B)       http://support-cacyber.samsung.com/cacyber/popup/iframe/pop_troubleshooting_fr.jsp?lang=ca&idx=365343&modelname=&modelcode=RF32FMQDBSR/AA&session_id=QPWA9VxMzoGnHrWEuJib4gBk9e_fVYd8lDnwO8UOwc1O2766kGAi!1452042332!245491257!1587006495820
+Samsung washer          W|(F,A,V,D)             https://en.tab-tv.com/?p=13375
+Samsung Drier           DV                      https://www.whirlpoolparts.com/PartSearch/ProductBrandAllModels?brandId=160&productId=8&n=1
+
