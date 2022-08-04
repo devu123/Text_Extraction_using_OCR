@@ -14,6 +14,6 @@ Rotating an image on each run slightly improves the predicting capability but si
 
 ---
 
-_The maintainers of this repository are Roby Rai, Deval Shah, and Prateeksha Hemraj_
+_The maintainers of this repository are Deval Shah and Roby Rai
 
 ---
