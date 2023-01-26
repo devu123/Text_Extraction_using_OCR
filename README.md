@@ -1,7 +1,6 @@
-# AsurionTeam2
+# Text Extraction using OCR
 
-This repository is to hold the modules for optical character recognition and extraction of model number from images of appliances provided by Asurion,
-in collaboration with Georgia Tech as a sponsored project.
+This repository is to hold the modules for optical character recognition and extraction of model number from images of appliances.
 ___
 `accuracy_test_on_entire_dataset_using_pytesseract.ipynb` and `accuracy_test_on_entire_dataset_using_easyocr.ipynb` are
 two jupyter notebooks that use pytesseract and easyocr libraries respectively for extracting text from images and locate model number for that extracted text.
